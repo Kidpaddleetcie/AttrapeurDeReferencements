@@ -1,0 +1,13 @@
+#ref_dea{
+width:50px;
+cursor:pointer;
+transition:all 0.2s;
+}
+#ref_dea:hover{transform:scale(0.8);}
+
+#ref_dea_modal{
+background-color:#ffffff52;
+display:inline-block;
+width:100%;
+color:#475c4d;
+}
