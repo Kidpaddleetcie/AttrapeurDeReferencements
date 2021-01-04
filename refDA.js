@@ -40,5 +40,5 @@ document.getElementById('ref_dea').addEventListener("click", daref);
     }
 }}
 else{
-  console.log("Référencement DeviantArt ne fonctionne que sur DeviantArt, évidemment ! et là, on est sur "+tspliteuh[2]);
+  console.log("Référencement DeviantArt ne fonctionne que sur DeviantArt, évidemment ! Et là, on est sur "+tspliteuh[2]);
 }
